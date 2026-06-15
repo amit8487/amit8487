@@ -22,9 +22,6 @@ I'm a 2nd year CSE student who genuinely enjoys building things on the backend �
 
 - 🔨 Currently deep in **FastAPI + PostgreSQL** — building real projects, not tutorials
 - 🧩 **255+ LeetCode problems** solved | Chasing that 1600+ contest rating
-- 🌱 Mentoring juniors through **RjitGeeks** — my college's tech community
-- 🎯 Long-term goal: **GSoC 2027** + landing a solid backend internship
-- ⚡ Fun fact: My LeetCode streak hit 130 days before life happened. Back at it.
 
 ---
 

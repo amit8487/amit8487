@@ -82,7 +82,7 @@ I'm a 2nd year CSE student who genuinely enjoys building things on the backend �
 </div>
 
 --- -->
-
+<!--
 ## 🚀 What I'm Currently Building
 
 ```python
@@ -101,7 +101,7 @@ me = Amit()
 me.say_hi()
 ```
 
----
+--- -->
 
 ## 🤝 Connect With Me
 
